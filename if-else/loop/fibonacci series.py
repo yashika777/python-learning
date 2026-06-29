@@ -1,8 +1,13 @@
-# for i in range(0,9):
-i=8
-num=0
-n=0
+a=0
+b=1
+i=int(input('enter range:'))
+n=1
 while n<=i:
-    num+=n
+    print(a)
+    a,b=b,a+b
     n+=1
-    print(num)
+a=0
+b=1
+for i in range(1,10):
+    print(a)
+    a,b=b,a+b
