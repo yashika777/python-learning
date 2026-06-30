@@ -9,8 +9,3 @@ while count<10:
         print(n)
         count+=1
     n+=1
-
-    
-
-
-
