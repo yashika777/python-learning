@@ -1,0 +1,2 @@
+Hello  Write  a program    to count total words in a text file.
+hii hello

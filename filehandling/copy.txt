@@ -1,0 +1,2 @@
+Hello  Write  a program  123  to count total words in a text file.
+hii 2helloHi my name is yashika
